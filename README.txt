@@ -1,0 +1,1 @@
+Day 1 - Created virtual business card (Only HTML and CSS). HTML_CSS -> wizytówka.html & wizytówka_style.css
