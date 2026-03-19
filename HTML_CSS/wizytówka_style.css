@@ -1,0 +1,68 @@
+img[alt="kot"]{
+    width: 200px;
+    border-radius: 50px;
+    padding: 10px;
+    float:left;
+    display: flex;
+}
+
+.main_container {
+    width: 700px;
+    height: 500px;  
+    padding: 10px;
+    background-color: #737B88;
+}
+body{
+    background-color: #60666E;
+    display: flex;
+    justify-content: center;   
+    margin-top: 100px;
+}
+.upper_container {
+    height: 200px;
+}
+
+.lower_container {
+    height: 300px;
+
+}
+
+p {
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;   
+}
+i{
+    color: #DFE0EB;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+div{
+    border: 2px solid #323232;
+    border-radius: 10px;
+}
+a {
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    display:inline;
+    color: bisque;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+a:hover{
+    color:aliceblue;
+}
+a:active{
+    color:red;
+}
+a:visited{
+    color: bisque;
+}
